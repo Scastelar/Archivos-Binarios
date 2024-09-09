@@ -33,6 +33,7 @@ public class Biblioteca extends JFrame implements ActionListener {
     int año de publicacion
     double rating
     boolean tiene imagen?
+    long tamaño de imagen
      */
     public Biblioteca() {
         setTitle("Biblioteca Virtual");
